@@ -1,0 +1,17 @@
+.app-container.light {
+    background-color: #f9f9f9;
+    color: #222;
+  }
+  
+  .app-container.dark {
+    background-color: #1e1e1e;
+    color: #eee;
+  }
+  
+  .theme-toggle {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  

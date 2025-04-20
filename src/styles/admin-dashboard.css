@@ -1,0 +1,39 @@
+/* Admin Dashboard Specific Styles */
+.admin-dashboard {
+    margin-top: 40px;
+  }
+  
+  .admin-dashboard h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .admin-dashboard h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .admin-dashboard div {
+    margin-bottom: 20px;
+  }
+  
+  .admin-dashboard div h4 {
+    font-size: 22px;
+  }
+  
+  .admin-dashboard div p {
+    font-size: 18px;
+  }
+  
+  .admin-dashboard input {
+    padding: 10px;
+    width: 200px;
+  }
+  
+  .admin-dashboard button {
+    font-size: 18px;
+    padding: 10px;
+    width: 100%;
+  }
+  

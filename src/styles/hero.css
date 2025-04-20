@@ -1,0 +1,28 @@
+.hero-section {
+    background-image: url('https://img.freepik.com/free-psd/3d-rendering-ecommerce-background_23-2151386708.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    position: relative;
+  }
+  
+  .hero-content {
+    background:transparent;
+    padding: 2rem 3rem;
+    border-radius: 12px;
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .hero-content p {
+    font-size: 1.25rem;
+  }
+  
